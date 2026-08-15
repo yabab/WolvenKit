@@ -54,6 +54,8 @@ internal class Program
             new ConvertCommand(),
             new ConflictsCommand(),
 
+            new NavBakeCommand(),
+
             new HashCommand(),
             new OodleCommand(),
 
