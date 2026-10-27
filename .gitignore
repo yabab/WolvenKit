@@ -146,6 +146,11 @@ Installers/setup-cache/
 Installers/caches/
 Installers/Setup Files/
 
+# Local build outputs and helper files (dotnet publish + local solution filter)
+publish_cli/
+publish_cli_linux/
+All.NoPackage.slnf
+
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
